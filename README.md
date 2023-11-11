@@ -1,4 +1,3 @@
-[![](./assets/backbground.jpeg)]()
 <h1 align="center">Hi 👋, I'm iizuka-0000</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iizuka-0000&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
