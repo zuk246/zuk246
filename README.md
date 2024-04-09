@@ -6,9 +6,9 @@ I`m Japanese high school student. I do competition programming and web app devel
 
 ## My portfolio
 
-Please click [this URL](https://zuk246.github.io/portfolio/), and you can visit my portfolio
+Please click [this URL](https://zuk246.net/), and you can visit my portfolio
 
-> If you want to watch portfolio github, please click [here](https://github.com/zuk246/portfolio).
+> If you want to watch portfolio github, please click [here](https://github.com/zuk246/zuk246.net).
 
 ## Top Langs
 
