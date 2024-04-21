@@ -1,18 +1,24 @@
-# Hey! Nice to see you 👋
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey👋%20I'm%20zuk246.&reversal=true&fontColor=fff&fontSize=70&animation=fadeIn&rotate=0)
 
 Welcome to my page!
 
-I`m Japanese high school student. I do competition programming and web app development.
+I am a high school student in Japan.
+I do web app development and competitive programming mainly as a hobby. 
 
 ## My portfolio
 
 Please click [this URL](https://zuk246.net/), and you can visit my portfolio
 
-> If you want to watch portfolio github, please click [here](https://github.com/zuk246/zuk246.net).
+> If you want to watch portfolio github, please click [here](https://github.com/zuk246/portfolio).
 
-## Top Langs
+# My Contributions Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuk246&size_weight=0.5&count_weight=0.5&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zuk246&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
+
+<div>
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuk246&theme=github_dark' />
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuk246&theme=github_dark&utcOffset=9' />
+</div>
 
 ## Contact
 
