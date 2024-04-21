@@ -11,7 +11,7 @@ Please click [this URL](https://zuk246.net/), and you can visit my portfolio
 
 > If you want to watch portfolio github, please click [here](https://github.com/zuk246/portfolio).
 
-# My Contributions Status
+## My Contributions Status
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zuk246&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
 
