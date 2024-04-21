@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey👋%20I'm%20zuk246.&reversal=true&fontColor=fff&fontSize=70&animation=fadeIn&rotate=0)
+![](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Hey👋%20I'm%20zuk246.&reversal=true&fontColor=fff&fontSize=70&animation=fadeIn&rotate=0)
 
 Welcome to my page!
 
